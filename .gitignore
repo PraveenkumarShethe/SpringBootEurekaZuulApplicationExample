@@ -12,3 +12,7 @@ EurekaServer/mvnw
 EurekaServer/.mvn/wrapper/maven-wrapper.properties
 EurekaServer/.mvn/wrapper/maven-wrapper.jar
 EurekaServer/.mvn/wrapper/MavenWrapperDownloader.java
+EurekaServer/HELP.md
+ZuulServer/.mvn/wrapper/maven-wrapper.properties
+ZuulServer/HELP.md
+studentservice/HELP.md
