@@ -16,3 +16,10 @@ EurekaServer/HELP.md
 ZuulServer/.mvn/wrapper/maven-wrapper.properties
 ZuulServer/HELP.md
 studentservice/HELP.md
+eurekaserver/.idea/**
+eurekaserver/eurekaserver.iml
+studentservice/.idea/**
+studentservice/studentservice.iml
+zuulserver/.idea/**
+eurekaserver/target/**
+zuulserver/ZuulServer.iml
