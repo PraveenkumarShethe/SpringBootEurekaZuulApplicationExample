@@ -23,3 +23,6 @@ studentservice/studentservice.iml
 zuulserver/.idea/**
 eurekaserver/target/**
 zuulserver/ZuulServer.iml
+studentservice/target/classes/**
+zuulserver/target/**
+studentservice/target/**
